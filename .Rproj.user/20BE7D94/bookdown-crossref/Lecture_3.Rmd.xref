@@ -1,0 +1,64 @@
+h1:lecture-3-central-limit-theorem-and-inference-for-means Lecture 3: Central Limit Theorem and Inference for Means
+h2:mean-and-standard-deviation Mean and Standard Deviation
+h3:descriptive-statistics-vs.-inferential-statistics Descriptive statistics vs. Inferential Statistics
+h3:some-commonly-encountered-shapes-of-distributions-of-a-variable Some commonly encountered shapes of distributions of a variable
+h3:descriptive-statistics-notation Descriptive statistics: Notation
+h3:histogram-of-fev Histogram of FEV
+h3:measures-of-central-tendency Measures of central tendency
+h3:summary-of-fev-variable Summary of FEV variable
+h3:robustness Robustness
+h3:mean-vs.-median Mean vs. Median
+h3:quantiles Quantiles
+h3:measures-of-spread Measures of spread
+h3:summary-of-fev-variable-1 Summary of FEV variable
+h3:comparison-of-measures-of-spread Comparison of measures of spread
+h3:variance-and-standard-deviation Variance and Standard Deviation
+h3:why-n-1-rather-than-n Why n-1 rather than n?
+h2:central-limit-theorem Central Limit Theorem
+h3:example-1-serum-cholesterol-in-children Example 1: Serum cholesterol in children
+h3:the-sampling-distribution-of-bar-y The sampling distribution of 
+h3:example-sampling-distribution-of-bar-y-when-n10 Example: Sampling distribution of  when n=10
+h3:example-sampling-distribution-of-bar-y-when-n30 Example: Sampling distribution of  when n=30
+h3:example-sampling-distribution-of-bar-y-when-n100 Example: Sampling distribution of  when n=100
+h3:example-sampling-distribution-of-bar-y-when-n1000 Example: Sampling distribution of  when n=1000
+h3:example-1 Example 1
+h3:the-sampling-distribution-of-bar-y-1 The sampling distribution of 
+h3:central-limit-theorem-1 Central Limit Theorem
+h3:example-1-1 Example 1
+h3:theory-related-to-the-sums-of-random-variables Theory related to the sums of random variables
+h3:some-examples-related-to-the-sums-of-independent-random-variables Some examples related to the sums of independent random variables
+h4:excerpt-from-lawrence-josephs-notes Excerpt from Lawrence Joseph’s notes
+h3:example-2-central-limit-theorem-in-action Example 2: Central Limit Theorem in action
+h2:confidence-intervals-for-means Confidence intervals for means
+h3:confidence-interval-estimation-for-a-single-mean Confidence interval estimation for a single mean
+h3:t-distribution t-distribution
+h3:example-1-serum-potassium-concentration Example 1: Serum Potassium Concentration
+h3:example-1-histogram-of-the-data Example 1: Histogram of the data
+h3:verifying-assumptions-behind-the-t-distribution-confidence-interval Verifying assumptions behind the t-distribution confidence interval
+h3:example-1-standard-error-and-95-confidence-interval Example 1: Standard Error and 95% confidence interval
+h3:interpretation-of-the-95-confidence-interval Interpretation of the 95% confidence interval
+h3:confidence-level Confidence level
+h3:example-1-distribution-of-the-data-with-intervals Example 1: Distribution of the data (with intervals)
+h3:interpreting-the-confidence-interval Interpreting the confidence interval
+h3:standard-error-vs-standard-deviation Standard error vs Standard deviation
+h2:confidence-interval-for-the-difference-between-two-means Confidence interval for the difference between two means
+h3:example-2-nck1-deficiency-and-adipogenesis Example 2: Nck1 deficiency and adipogenesis
+h3:confidence-interval-for-the-difference-between-means-from-two-independent-samples Confidence interval for the difference between means from two independent samples
+h3:variance-of-the-difference-in-means Variance of the difference in means
+h3:calculating-degrees-of-freedom-of-the-t-distribution-when-variances-are-not-equal Calculating degrees of freedom of the t-distribution when variances are not equal
+h3:example-2-nck1-deficiency-and-adipogenesis-1 Example 2: Nck1 deficiency and adipogenesis
+h3:calculating-the-pooled-variance-for-body-weight Calculating the pooled variance for body weight
+h3:confidence-interval-for-difference-in-body-weight Confidence interval for difference in body weight
+h3:confidence-intervals-comparing-the-two-groups Confidence intervals comparing the two groups
+h3:interpreting-the-confidence-interval-1 Interpreting the confidence interval
+h2:sample-size-calculations Sample size calculations
+h3:an-illustration An illustration
+h3:sample-size-calculation Sample size calculation
+h3:sample-size-calculation-for-reporting-a-confidence-interval Sample size calculation for reporting a confidence interval
+h3:example-method-for-a-single-mean Example: Method for a single mean
+h3:the-desired-precision-is-much-smaller-than-the-standard-deviation-of-the-variable The desired precision is much smaller than the standard deviation of the variable
+h3:example-method-for-a-single-mean-1 Example: Method for a single mean
+h3:alternative-values-of-α-s-and-δ Alternative values of α, s and δ
+h3:example-sample-size-calculation-for-comparing-two-means Example: Sample size calculation for comparing two means
+h3:example-comparison-of-two-means Example: Comparison of two means
+

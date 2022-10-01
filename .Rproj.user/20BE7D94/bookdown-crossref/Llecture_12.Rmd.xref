@@ -1,0 +1,70 @@
+h1:lecture-12-simple-and-multiple-linear-regression Lecture 12: Simple and Multiple Linear Regression
+h2:correlation-and-simple-linear-regression Correlation and Simple Linear Regression
+h3:simple-and-multiple-linear-regression Simple and Multiple Linear Regression
+h3:research-question Research question
+h3:terminologies Terminologies
+h3:finch-mayo-dataset Finch-Mayo Dataset
+h3:knowing-the-type-of-outcome-measure-can-help-specify-the-theoretical-model Knowing the type of outcome measure can help specify the theoretical model
+h3:research-question-1 Research question
+h3:measurement-scale Measurement scale
+h3:walking-capacity---physical-function Walking capacity <- Physical Function?
+h3:descriptive-statistics-and-graphs Descriptive statistics and graphs
+h3:histogram-of-walking-capacity Histogram of walking capacity
+h3:walking-capacity-vs.-physical-function Walking capacity vs. Physical Function
+h3:correlation-between-physical-function-and-walking-capacity Correlation between physical function and walking capacity
+h3:results-of-simple-linear-regression-walking-capacity---pfi Results of simple linear regression: Walking capacity <- PFI
+h4:output-from-r Output from R
+h3:simple-linear-regression Simple Linear Regression
+h3:comparison-of-regression-lines Comparison of Regression Lines
+h3:simple-linear-regression-model Simple Linear Regression Model
+h3:illustration-of-assumptions-behind-simple-linear-regression Illustration of assumptions behind Simple Linear Regression
+h3:assumptions-involved-in-simple-linear-regression Assumptions involved in Simple Linear Regression
+h3:simple-linear-regression-1 Simple Linear Regression
+h3:residual Residual
+h3:simple-linear-regression-2 Simple Linear Regression
+h3:estimating-a-and-b-using-the-method-of-least-squares Estimating a and b using the method of least squares
+h3:relation-between-slope-and-correlation-coefficient Relation between slope and correlation coefficient
+h3:estimating-the-error-variance Estimating the error variance
+h3:expressions-for-standard-errors-and-confidence-intervals-for-parameter-estimates Expressions for standard errors and confidence intervals for parameter estimates
+h3:hypothesis-tests-for-regression-coefficients Hypothesis tests for regression coefficients
+h3:estimating-the-regression-line Estimating the regression line
+h3:best-fitting-straight-line Best fitting straight line
+h3:confidence-interval-for-b Confidence interval for b
+h3:change-in-walking-capacity-for-a-1-sd-change-in-physical-function Change in walking capacity for a 1 SD change in physical function
+h3:estimating-average-walking-capacity-for-patients-with-physical-function50 Estimating average Walking Capacity for patients with Physical Function=50
+h3:ci-for-average-walking-capacity-among-patients-with-pf50 95% CI for average Walking Capacity among patients with PF=50
+h3:ci-for-predicted-walking-capacity-in-an-individual-patient-with-pf50 95% CI for predicted Walking Capacity in an individual patient with PF=50
+h3:regression-diagnostics-using-residuals Regression diagnostics using residuals
+h3:plot-of-residuals-vs.-predicted-value-haty-or-exposure-x Plot of residuals vs. predicted value  or exposure (X)
+h3:residual-plot-prototype-a-ideal-situation-no-apparent-pattern Residual plot: Prototype (a), Ideal Situation: No apparent pattern
+h3:residual-plot-prototype-b-suggests-that-the-linear-model-is-inappropriate.-quadratic-model-with-x2-may-be-needed Residual plot: Prototype (b), Suggests that the linear model is inappropriate. Quadratic model (with ) may be needed
+h3:how-does-the-non-linear-pattern-arise How does the non-linear pattern arise?
+h3:residual-plot-prototype-c-plot-suggests-variance-is-not-constant.-transformation-may-help. Residual plot: Prototype (c), Plot suggests variance is not constant. Transformation may help.
+h3:residual-plot-for-walking-capacity-vs.-physical-function-model Residual plot for Walking Capacity vs. Physical Function model
+h3:what-is-the-impact-of-an-outlier What is the impact of an outlier?
+h3:what-should-we-do-with-an-outlier What should we do with an outlier?
+h3:qq-plot-to-see-if-residuals-are-normally-distributed QQ-plot to see if residuals are normally distributed
+h3:q-q-plot-for-walking-capacity-vs.-physical-function-model Q-Q plot for Walking Capacity vs. Physical Function model
+h3:what-does-the-qq-plot-tell-us What does the QQ plot tell us?
+h3:goodness-of-fit Goodness of fit
+h3:multiple-linear-regression-conceptual-model Multiple Linear Regression: Conceptual Model
+h3:self-perceived-health---physical-function-covariates Self-Perceived Health <- Physical Function + covariates
+h3:exploratory-analyses Exploratory analyses
+h3:multiple-linear-regression-model Multiple Linear Regression Model
+h3:results-of-simple-and-multiple-linear-regression-models Results of simple and multiple linear regression models
+h3:interpretation-of-regression-coefficients-in-a-model-with-interaction-terms Interpretation of regression coefficients in a model with interaction terms
+h3:interpretation-of-coefficients-of-interaction-terms Interpretation of coefficients of interaction terms
+h3:model-checking Model checking
+h3:residuals-vs.-fitted-values-for-our-example Residuals vs. Fitted values for our example
+h3:standardized-residuals-vs.-fitted-values Standardized Residuals vs. Fitted Values
+h3:qq-normal-plot-of-standardized-residuals QQ (normal)-plot of standardized residuals
+h3:vif-for-our-example VIF for our example
+h3:model-with-centred-pfi-and-mhi-notice-change-in-slopes-of-these-variables Model with centred PFI and MHI (notice change in slopes of these variables!)
+h3:results-of-multiple-linear-regression-model-before-and-after-centering Results of multiple linear regression model before and after centering
+h3:revised-interpretation-of-interaction-terms Revised interpretation of interaction terms
+h3:interpretation-of-regression-coefficients-in-a-model-with-centred-explanatory-variables Interpretation of regression coefficients in a model with centred explanatory variables
+h3:inference-for-slopes Inference for slopes
+h3:example-inference-for-slope-of-pfi-when-mhi90 Example: Inference for slope of PFI when MHI=90
+h3:anova-table-for-multiple-linear-regression-model ANOVA table for Multiple Linear Regression Model
+h3:adjusted-r-squared Adjusted R-squared
+

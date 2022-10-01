@@ -1,0 +1,35 @@
+h1:lecture-11-analysis-of-variance-anova-2 Lecture 11: Analysis of Variance (ANOVA) 2
+h2:way-anova-model 1-way ANOVA model
+h3:extending-the-1-way-anova-model Extending the 1-way ANOVA model
+h3:study-designs-handled-with-2-way-anova-models Study designs handled with 2-way ANOVA models
+h3:example-repeated-measures-design Example: Repeated Measures Design
+h3:number-of-study-units-from-3rs-website-of-michael-festing Number of study units (from 3rs website of Michael Festing)
+h3:example-repeated-measures-design-1 Example: Repeated Measures Design
+h3:example-2-way-anova-model Example: 2-way ANOVA model
+h3:example-visualizing-the-patient-effects Example: Visualizing the patient-effects
+h3:example-1-way-anova-model Example: 1-way ANOVA model
+h3:example-2-way-anova-model-1 Example: 2-way ANOVA model
+h3:way-anova-in-r 2-way ANOVA in R
+h3:example-factorial-design Example: Factorial Design
+h3:example-2-way-anova-model-2 Example: 2-way ANOVA model
+h3:example-2-way-anova-table Example: 2-way ANOVA table
+h3:example-2-way-anova-table-in-r Example: 2-way ANOVA table in R
+h3:example-pairwise-comparisons Example: Pairwise comparisons
+h3:assumptions-behind-2-way-anova Assumptions behind 2-way ANOVA
+h2:correlation Correlation
+h3:association-between-age-bp Association between age & BP
+h3:the-correlation-coefficient The correlation coefficient
+h3:pearsons-correlation-coefficient Pearson’s correlation coefficient
+h3:properties-of-rho Properties of 
+h3:scatterplots-of-data-with-a-variety-of-sample-correlation-values Scatterplots of data with a variety of sample correlation values
+h3:example-length-and-weight-of-snakes Example: Length and weight of snakes
+h3:scatterplot-of-weight-vs.-length-of-snakes Scatterplot of weight vs. length of snakes
+h3:how-strong-is-the-linear-relationship-between-snake-length-and-weight How strong is the linear relationship between snake length and weight?
+h3:scatterplot-of-standardized-values-of-weight-vs.-length-of-snakes Scatterplot of standardized values of weight vs. length of snakes
+h3:example-calculating-the-correlation-coefficient Example: Calculating the correlation coefficient
+h3:inference-about-rho-test-for-a-zero-population-correlation Inference about  : Test For A Zero Population Correlation
+h3:example-blood-pressure-and-platelet-calcium Example: Blood pressure and platelet calcium
+h3:inferences-on-rho-1-α-confidence-interval Inferences on : (1-α)% confidence interval
+h3:example-blood-pressure-and-platelet-calcium-1 Example: Blood pressure and platelet calcium
+h3:correlation-coefficient-in-r Correlation coefficient in R
+

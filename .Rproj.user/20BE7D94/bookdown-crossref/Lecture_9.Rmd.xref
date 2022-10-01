@@ -1,0 +1,34 @@
+h1:lecture-9-non-parametric-methods Lecture 9: Non-parametric methods
+h2:parametric-inference Parametric Inference
+h3:examples Examples
+h3:non-parametric-inference Non-Parametric Inference
+h3:hypothesis-testing-procedure Hypothesis testing procedure
+h3:example-comparison-of-two-matched-samples Example: Comparison of Two Matched Samples
+h3:example Example
+h3:comparison-of-two-matched-samples-the-sign-test Comparison of Two Matched Samples: The Sign Test
+h3:the-sign-test-the-test-statistic The Sign Test: The test statistic
+h3:the-sign-test-calculating-the-p-value The Sign Test: Calculating the p-value
+h3:example-1 Example
+h3:carrying-out-the-sign-test-in-r Carrying out the Sign Test in R
+h3:are-non-parameteric-methods-really-distribution-free Are non-parameteric methods really ?
+h3:comparison-of-two-matched-samples-the-wilcoxon-signed-rank-test Comparison of Two Matched Samples: The Wilcoxon Signed Rank Test
+h3:example-wilcoxon-signed-rank-test Example: Wilcoxon Signed Rank Test
+h3:wilcoxon-signed-rank-test-in-r Wilcoxon Signed Rank Test in R
+h3:normal-approximation-to-the-sign-and-wilcoxon-signed-rank-tests Normal approximation to the Sign and Wilcoxon Signed Rank Tests
+h3:normal-approximation-to-the-wilcoxon-signed-rank-test Normal approximation to the Wilcoxon Signed Rank Test
+h3:comparison-of-two-unmatched-samples Comparison of two unmatched samples
+h3:wilcoxon-rank-sum-test Wilcoxon Rank Sum Test
+h3:wilcoxon-rank-sum-test-calculation-of-the-test-statistic Wilcoxon Rank Sum Test: Calculation of the test statistic
+h3:exact-wilcoxon-rank-sum-test Exact Wilcoxon Rank Sum Test
+h3:example-wilcoxon-rank-sum-test Example: Wilcoxon Rank Sum Test
+h3:approximate-wilcoxon-rank-sum-test Approximate Wilcoxon Rank Sum Test
+h3:wilcoxon-rank-sum-test-in-r Wilcoxon Rank Sum Test in R
+h3:summary-of-hypothesis-tests-covered-in-this-course Summary of hypothesis tests covered in this course
+h2:bootstrap-confidence-interval Bootstrap confidence interval
+h3:confidence-intervals-vs.-hypothesis-testing Confidence intervals vs. Hypothesis Testing
+h3:bootstrap-confidence-intervals Bootstrap confidence intervals
+h3:bootstrap-example Bootstrap: Example
+h3:the-empirical-bootstrap The empirical bootstrap
+h3:example-2 Example
+h3:r-code-for-bootstrap R code for bootstrap
+

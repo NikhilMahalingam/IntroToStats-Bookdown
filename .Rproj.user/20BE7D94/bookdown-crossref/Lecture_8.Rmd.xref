@@ -1,0 +1,44 @@
+h1:lecture-8-other-statistics-for-comparing-proportions-and-methods-for-contingency-tables Lecture 8: Other statistics for comparing proportions and methods for contingency tables
+h2:odds Odds
+h3:odds-ratio-and-relative-risk Odds Ratio and Relative Risk
+h3:confidence-interval-for-an-odds-ratio Confidence interval for an odds ratio
+h3:confidence-interval-for-the-relative-risk Confidence interval for the relative risk
+h3:probiotics-example-results-for-both-studies Probiotics example: Results for both studies
+h3:probiotics-and-cdad-rearranging-the-data Probiotics and CDAD: Rearranging the data
+h3:r-function-for-odds-ratio-and-relative-risk R function for odds ratio and relative risk
+h3:example-probiotics-and-cdad Example: Probiotics and CDAD
+h3:example-95-confidence-intervals-for-gao-et-al. Example: 95% confidence intervals for Gao et al.
+h3:example-95-confidence-intervals-for-otitis-data Example: 95% confidence intervals for otitis data
+h3:example-probiotics-and-cdad-1 Example: Probiotics and CDAD
+h3:risk-ratio-vs.-risk-difference Risk ratio vs. risk difference
+h2:methods-for-contingency-tables Methods for contingency tables
+h3:comparing-two-or-more-proportions-the-generic-setup Comparing Two or More Proportions: The generic setup
+h3:examples-from-two-randomized-controlled-trials Examples from two randomized controlled trials
+h3:r-code-to-examine-an-r-c-table R code to examine an r × c table
+h3:output-from-r Output from R
+h3:hypothesis-tests-to-compare-two-or-more-proportions Hypothesis tests to compare two or more proportions
+h3:methods-to-compare-two-or-more-proportions Methods to Compare Two or More Proportions
+h3:examples-from-two-randomized-controlled-trials-1 Examples from two randomized controlled trials
+h3:methods-to-compare-two-or-more-proportions-1 Methods to Compare Two or More Proportions
+h3:which-method-do-we-use Which method do we use?
+h3:hypothesis-test-for-comparing-two-or-more-proportions Hypothesis test for comparing two or more proportions
+h3:example-one-sample-chi2-test Example: One Sample  test
+h3:calculating-the-p-value-under-a-chi-square-distribution Calculating the p-value under a chi-square distribution
+h3:example-two-sample-chi2-test Example: Two sample  Test
+h3:example-chi2-test-for-the-2-x-3-table Example:  test for the 2 x 3 Table
+h3:some-more-notes-on-the-chi-square-test Some more notes on the chi-square test
+h3:chi-square-test-in-r Chi-square test in R
+h3:chi-square-test-for-a-single-proportion Chi-square test for a single proportion
+h3:two-sample-chi2-test-in-r Two sample  Test in R
+h3:three-sample-chi2-test-in-r Three sample  Test in R
+h3:example-ecmo Example: ECMO
+h3:example-fishers-exact-test Example: Fisher’s Exact Test
+h3:fishers-exact-test Fisher’s exact test
+h3:example-fishers-exact-test-1 Example: Fisher’s exact test
+h3:calculation-of-p-value-for-fishers-exact-test Calculation of p-value for Fisher’s exact test
+h3:fishers-exact-test-1 Fisher’s exact test
+h3:carrying-out-fishers-exact-test-in-r---two-sided-alternative Carrying out Fisher’s exact test in R - two-sided alternative
+h3:carrying-out-fishers-exact-test-in-r---one--sided-alternative Carrying out Fisher’s exact test in R - one -sided alternative
+h4:alternative-cmt-has-higher-risk-of-dying Alternative: CMT has higher risk of dying
+h4:alternative-ecmo-has-higher-risk-of-dying Alternative: ECMO has higher risk of dying
+

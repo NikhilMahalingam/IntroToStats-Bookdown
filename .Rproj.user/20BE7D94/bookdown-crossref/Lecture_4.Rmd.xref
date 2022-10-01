@@ -1,0 +1,70 @@
+h1:lecture-4-inference-for-means-continued Lecture 4: Inference for means continued
+h2:hypothesis-testing Hypothesis testing
+h3:example-1-nck1-and-adipogenesis-continued Example 1: Nck1 and adipogenesis continued
+h3:hypothesis-testing-1 Hypothesis testing
+h3:hypothesis-testing-for-a-single-mean Hypothesis testing for a single mean
+h3:mobility-after-stroke-two-sided-alternative-hypothesis Mobility after stroke: two-sided alternative hypothesis
+h3:mobility-after-stroke-one-sided-alternative-hypothesis-i Mobility after stroke: one-sided alternative hypothesis I
+h3:mobility-after-stroke-one-sided-alternative-hypothesis-ii Mobility after stroke: one-sided alternative hypothesis II
+h3:more-generally-the-hypothesis-test-for-a-single-mean-may-be-stated-as-follows More generally, the hypothesis test for a single mean may be stated as follows
+h3:example-mobility-after-stroke Example: Mobility after stroke
+h3:defining-the-test-statistic-and-the-rejection-region Defining the test statistic and the rejection region
+h3:defining-the-t-test-statistic Defining the t-test statistic
+h3:rejection-region-for-the-t-test Rejection region for the t-test
+h3:comparison-to-confidence-interval Comparison to confidence interval
+h3:determining-the-rejection-region-using-r Determining the rejection region using R
+h3:type-i-and-type-ii-errors Type I and Type II errors
+h3:hypothesis-testing-a-summary Hypothesis testing: A summary
+h3:similarity-between-diagnostic-testing-and-hypothesis-testing Similarity between diagnostic testing and hypothesis testing
+h3:defining-the-t-test-statistic-for-a-one-sided-test Defining the t-test statistic, for a one-sided test
+h3:why-did-the-test-statistic-not-change-for-the-one-sided-hypothesis-test Why did the test statistic not change for the one-sided hypothesis test?
+h3:what-is-statistical-significance What is statistical significance?
+h3:what-is-a-p-value What is a p-value?
+h3:p-value-illustrated p-value illustrated
+h3:type-i-and-type-ii-errors-1 Type I and Type II errors
+h3:t-test t-test
+h3:a-bit-of-history-pearson-vs.-fisher A bit of history: Pearson vs. Fisher
+h3:inference-for-comparing-two-means Inference for comparing two means
+h3:stroke-study-question-2-two-sided-alternative-hypothesis Stroke study: Question 2, two-sided alternative hypothesis
+h3:stroke-study-question-2-one-sided-hypothesis-i Stroke study: Question 2, one-sided hypothesis I
+h3:stroke-study-question-2-one-sided-hypothesis-ii Stroke study: Question 2, one-sided hypothesis II
+h3:example-one-sided-or-two-sided-test Example: One-sided or two-sided test?
+h3:difference-in-change-in-mobility-between-men-and-women Difference in change in mobility between men and women
+h3:comparing-change-in-mobility-between-men-and-women Comparing change in mobility between men and women
+h3:what-if-our-alternative-hypothesis-was-one-sided-instead What if our alternative hypothesis was one-sided instead?
+h3:what-if-our-alternative-hypothesis-was-one-sided-in-the-other-direction What if our alternative hypothesis was one-sided in the other direction?
+h3:what-if-our-null-hypothesis-was-one-sided-instead What if our null hypothesis was one-sided instead?
+h3:why-did-our-conclusion-change-when-we-moved-from-a-two-sided-to-a-one-sided-hypothesis Why did our conclusion change when we moved from a two-sided to a one-sided hypothesis?
+h2:hypothesis-testing-vs.-confidence-interval-estimation Hypothesis testing vs. confidence interval estimation
+h3:what-is-statistics What is statistics?
+h3:quantifying-uncertainty-vs.-decision-making Quantifying uncertainty vs. decision making
+h3:interpreting-confidence-intervals-vs.-hypothesis-tests Interpreting Confidence Intervals vs. Hypothesis Tests
+h4:interpreting-confidence-intervals-5-possible-conclusions Interpreting confidence intervals: 5 possible conclusions
+h3:notes-on-significance-tests Notes on significance tests
+h2:sample-size-calculations-for-studies-of-one-or-two-means Sample size calculations for studies of one or two means
+h3:sample-size-for-hypothesis-tests Sample size for hypothesis tests
+h3:example Example
+h3:we-are-interested-in-detecting-a-shift-in-the-mean-of-the-distribution We are interested in detecting a shift in the mean of the distribution
+h3:sample-size-required-for-a-hypothesis-test-of-a-single-mean Sample size required for a hypothesis test of a single mean
+h3:sample-size-required-under-different-scenarios Sample size required under different scenarios
+h3:example-serum-cholesterol Example: Serum cholesterol
+h3:summary-what-do-you-need-to-calculate-the-sample-size-required Summary: What do you need to calculate the sample size required?
+h3:sample-size-calculation-comparing-two-means Sample size calculation: Comparing two means
+h3:example-1 Example
+h3:sample-size-required-to-test-h_0mu_1mu_2 Sample size required to test 
+h3:example-in-vivo-efficacy-of-p1.40 Example: In-vivo efficacy of P1.40
+h3:power Power
+h3:calculating-the-power-in-r Calculating the power in R
+h3:example-power-function Example: Power function
+h3:what-is-the-impact-of-equal-or-unequal-group-sizes-on-the-precision What is the impact of equal or unequal group sizes on the precision?
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-both-groups-are-equally-difficult-to-sample-from Effect of different numbers in each sample on precision, when both groups are equally difficult to sample from
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-group-1-is-more-scarce-than-group-2 Effect of different numbers in each sample on precision, when group 1 is more scarce than group 2
+h3:an-r-package-for-sample-size-and-power-calculations An R package for sample size and power calculations
+h3:installing-a-package-in-r Installing a package in R
+h3:sample-size-for-comparing-two-means Sample size for comparing two means
+h4:example-1-1 Example 1:
+h4:example-2 Example 2:
+h2:extra-problems Extra Problems
+h3:section 1.
+h3:section-1 2.
+

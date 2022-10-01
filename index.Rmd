@@ -1,0 +1,64 @@
+--- 
+title: "Intro to Statistics Notes"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+
+description: |
+  Intro to Stats notes for Nandini Dendukuri - Nikhil Mahalingam
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+# Schedule {-}
+
+```{r include=FALSE}
+pacman::p_load(tidyverse)
+pacman::p_load(calendar)
+pacman::p_load(lubridate)
+pacman::p_load(glue)
+pacman::p_load(rvest)
+pacman::p_load(kableExtra)
+options(kableExtra.html.bsTable = T)
+pacman::p_load(knitr)
+pacman::p_load(formattable)
+
+
+strip_html <- function(s) {
+  html_text(read_html(charToRaw(s)))
+}
+
+```
+
+
+```{r, echo=FALSE}
+
+schedule_raw <- read_csv(here::here("inst","schedule","schedule.csv"), na = c("NA"),
+                         col_types = cols(
+  Lecture = col_character(),
+  Date = col_character(),
+  Topics = col_character(),
+  Assignment = col_character(),
+))
+
+
+schedule_raw %>% 
+  kbl(escape = FALSE) %>% 
+  kable_styling(c("hover"), fixed_thead = T, full_width = T) %>% 
+  column_spec(1, width = "6em") %>% 
+  column_spec(2, width = "8em") %>% 
+  column_spec(3, width = "16em") %>% 
+  column_spec(4, width = "10em") %>% 
+  collapse_rows(columns = 1)
+  
+
+```
+
+

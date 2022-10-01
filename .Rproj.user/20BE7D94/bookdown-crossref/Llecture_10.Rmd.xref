@@ -1,0 +1,38 @@
+h1:lecture-10-analysis-of-variance-anova Lecture 10: Analysis of Variance (ANOVA)
+h2:introduction Introduction
+h3:example-mao-and-schizophrenia Example: MAO and Schizophrenia
+h3:why-not-answer-these-questions-with-repeated-t-tests Why not answer these questions with repeated t-tests?
+h3:graphical-perspective-on-anova Graphical perspective on ANOVA
+h3:one-way-anova One-way ANOVA
+h3:one-way-anova-assumptions One-way ANOVA: Assumptions
+h3:one-way-anova-notation One-way ANOVA: Notation
+h3:one-way-anova-mao-and-schizophrenia One-way ANOVA: MAO and Schizophrenia
+h3:anova-within-group-variation ANOVA: Within-group variation
+h3:mao-within-group-variation MAO: Within-group variation
+h3:anova-between-group-variation ANOVA: Between-group variation
+h3:mao-between-group-variation MAO: Between-group variation
+h3:a-fundamental-relationship-of-anova A fundamental relationship of ANOVA
+h3:anova-table ANOVA table
+h3:mao-example-anova-table MAO Example: ANOVA table
+h3:the-f-test The F-test
+h3:mao-example-the-f-test MAO example: The F-test
+h3:the-f-distribution The F-distribution
+h3:rejection-region Rejection region
+h3:mao-example-conclusion MAO example: Conclusion
+h3:anova-in-r ANOVA in R
+h3:checking-the-assumptions-of-anova Checking the assumptions of ANOVA
+h3:residuals-for-mao-example Residuals for MAO example
+h3:quantile-quantile-plot-to-check-for-normality Quantile-quantile plot to check for normality
+h3:quantile-quantile-qq-plot-for-mao-data Quantile-quantile (QQ) plot for MAO data
+h3:residual-plot-to-evaluate-constant-variance-across-groups Residual plot to evaluate constant variance across groups
+h3:residuals-for-mao-example-1 Residuals for MAO example
+h3:multiple-comparisons Multiple comparisons
+h3:multiple-comparisons-solutions Multiple comparisons: Solutions
+h3:bonferroni-correction Bonferroni correction
+h3:bonferroni-correction-for-the-mao-example Bonferroni correction for the MAO example
+h3:bonferroni-correction-1 Bonferroni correction
+h3:tukeys-confidence-interval Tukey’s confidence interval
+h3:results-for-the-mao-data Results for the MAO data
+h3:multiple-comparisons-the-debate Multiple comparisons: The debate
+h3:steps-involved-in-anova Steps involved in ANOVA
+

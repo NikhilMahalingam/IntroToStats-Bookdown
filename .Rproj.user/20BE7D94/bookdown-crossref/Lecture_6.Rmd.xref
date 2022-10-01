@@ -1,0 +1,52 @@
+h1:lecture-6-bayesian-inference-for-means Lecture 6: Bayesian inference for means
+h2:example-beach-water-quality Example: Beach Water Quality
+h3:descriptive-statistics Descriptive Statistics
+h3:frequentist-inference Frequentist inference
+h3:p-value p-value
+h3:confidence-interval 95% confidence interval
+h3:bayesian-analysis Bayesian analysis
+h3:what-is-the-true-mean-e.-coli-count-µ What is the true mean E. coli count (µ)?
+h3:bayesian-inductive-vs.-frequentist-deductive-thinking Bayesian (inductive) vs. Frequentist (deductive) thinking
+h3:principal-elements-of-a-bayesian-analysis Principal elements of a Bayesian analysis
+h3:the-prior-distribution The prior distribution
+h3:beach-water-quality-bayesian-analysis Beach Water Quality: Bayesian analysis
+h3:two-possible-prior-distributions Two possible prior distributions
+h3:illustration-of-the-two-prior-distributions Illustration of the two prior distributions
+h3:applying-bayes-theorem Applying Bayes Theorem
+h3:the-normal-posterior-distribution The normal posterior distribution
+h3:beach-water-quality-example-non-informative-prior Beach Water Quality Example: Non-informative prior
+h3:bayesian-analysis-using-r Bayesian analysis using R
+h3:posterior-distribution-compared-to-likelihood-and-non-informative-prior Posterior distribution compared to likelihood and non-informative prior
+h3:prior-and-posterior-distribution-plot-from-r Prior and posterior distribution plot from R
+h3:statistics-typically-reported-in-a-bayesian-analysis Statistics typically reported in a Bayesian analysis
+h3:interpretation-of-the-bayesian-credible-interval-cri Interpretation of the Bayesian credible interval (CrI)
+h3:mean-e.-coli-counts-hypothesis-testing-vs.-confidence-interval-vs.-bayesian-inference Mean E. coli counts: Hypothesis testing vs. confidence interval vs. Bayesian inference
+h3:beach-water-quality-informative-prior-distribution Beach Water Quality: Informative prior distribution
+h3:expressing-the-95-ci-from-earlier-data-as-a-normal-distribution Expressing the 95% CI from earlier data as a normal distribution
+h3:beach-water-quality-example-informative-prior Beach Water Quality Example: Informative prior
+h3:non-informative-prior Non-informative prior
+h3:results-with-non-informative-vs.-informative-prior Results with non-informative vs. informative prior
+h4:non-informative-prior-1 Non-informative prior
+h4:informative-prior Informative prior
+h3:r-code-for-bayesian-analysis R code for Bayesian analysis
+h3:beach-water-quality-example Beach Water Quality Example
+h3:example-renal-denervation Example: Renal Denervation
+h3:re-analysis-of-renal-denervation-data-using-a-bayesian-approach Re-analysis of Renal Denervation data using a Bayesian approach
+h3:posterior-distributions Posterior distributions
+h3:posterior-distribution-of-the-difference-between-the-two-groups Posterior distribution of the difference between the two groups
+h3:posterior-distribution-of-the-difference-between-the-two-groups-1 Posterior distribution of the difference between the two groups
+h3:summary-of-results-hypothesis-testing-vs.-confidence-interval-vs.-bayesian-inference Summary of results: Hypothesis testing vs. confidence interval vs. Bayesian inference
+h3:update-on-the-renal-denervation-story Update on the renal denervation story
+h3:why-is-bayesian-inference-not-used-more-widely Why is Bayesian inference not used more widely?
+h3:are-bayesian-methods-worth-the-effort Are Bayesian methods worth the effort?
+h3:are-bayesian-methods-complex Are Bayesian methods complex?
+h2:risk-of-incorrect-conclusions-with-hypothesis-testing Risk of incorrect conclusions with hypothesis testing
+h3:concerns-with-hypothesis-testing Concerns with hypothesis testing
+h3:optimizing-decision-making Optimizing decision making
+h3:concerns-with-p-values Concerns with p-values
+h3:factors-that-influence-the-accuracy-of-hypothesis-testing Factors that influence the accuracy of hypothesis testing
+h3:probabilities-of-true-and-false-reporting Probabilities of true and false reporting
+h3:illustration-from-nuzzo-et-al. Illustration from Nuzzo et al.
+h3:illustration-of-true-and-false-reporting-probabilities Illustration of true and false reporting probabilities
+h3:pre-study-odds-of-h0h1 Pre-study odds of H0:H1
+

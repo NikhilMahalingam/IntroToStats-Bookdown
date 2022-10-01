@@ -1,0 +1,49 @@
+---
+always_allow_html: true
+---
+
+# Course Details {-}
+
+* **Dates:** Mon, Jun 1 – Mon Jul 13, 2020
+* **Time:** 9:00am-12:00pm
+* **Place:** Online! https://mcgill.zoom.us/j/98513054963
+* **Course website:** MyCourses
+* **Instructor email:** nandini.dendukuri@mcgill.ca
+
+* **Assessment**:
+    + 6 assignments: 60% 
+    + In-class quizzes: 10%
+    + 1 group project: 30%
+
+## Project {-}
+
+* Goal is for you to learn the methods covered in this course by applying to a real problem you are familiar with 
+* You are required to work in groups of 3, identify a dataset, preferably related to your research and analyze it 
+* At the end of the course, submit a short report and make a 10-minute presentation
+    + Use reporting guidelines from the Equator network as relevant
+* The methods used will naturally limited to those covered during this introductory course. However, you can discuss what other methods would be needed to answer the research question satisfactorily. 
+
+## Suggested References {-}
+
+* Many books available for free via McGill libraries, for example:
+    + **Biostatistics with R: An Introduction to Statistics through Biological Data**, Babak Shahbaba, Springer, 2012
+    + **A tiny handbook of R**, Mike Allerhand,  Springer-Verlag, 2011
+* Lecture material for this course is drawn from a variety of sources including:
+    + Other courses:
+        - **Tim Hanson’s Course (Univ of South Carolina):**  http://people.stat.sc.edu/hansont/stat205/stat205_spring2014.html
+        - **Ingo Ruczinski’s two-term course (Johns Hopkins)** http://www.biostat.jhsph.edu/~iruczins/teaching/140.615/140.615.index.html
+        - **Lawrence Joseph’s EPIB-607 Course (Dept of Epidemiology, Biostatistics and Occupational Health, McGill University)**
+       http://www.medicine.mcgill.ca/epidemiology/Joseph/courses/EPIB-607/main.html
+    + Text books (available via sites like amazon.com):
+        - **Statistics for the life sciences**, Samuels, Wittmer and Schaffner, 2016	
+        - **Statistical data analysis for the life sciences**, Ekstrom and Sorensen, CRC press, 2010
+        - **Data analysis for the life sciences**, Irizarry and Love, Leanpub, 2015
+        - **Statistical ideas and methods**, Utts and Heckard, Thompson Brooks Cole, 2006
+
+
+
+
+
+
+
+

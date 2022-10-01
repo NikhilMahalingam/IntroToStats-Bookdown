@@ -1,0 +1,590 @@
+h1:schedule Schedule
+h1:course-details Course Details
+h2:project Project
+h2:suggested-references Suggested References
+h1:lecture-1 Lecture 1
+h2:introduction Introduction
+h3:what-is-statistics What is Statistics?
+h3:a-motivating-example A Motivating Example
+h3:what-was-the-evidence-behind-this-optimistic-headline What was the evidence behind this optimistic headline?
+h3:what-would-a-data-detective-ask What would a data detective ask?
+h3:results-reported-in-the-study Results reported in the study
+h3:evaluating-the-quality-of-the-statistical-methods Evaluating the quality of the statistical methods
+h3:what-if-the-sample-size-were-smaller What if the sample size were smaller?
+h3:what-if-the-sample-size-were-larger What if the sample size were larger?
+h3:sample-size-and-precision Sample Size and Precision
+h3:evaluating-the-quality-of-the-statistical-methods-1 Evaluating the quality of the statistical methods
+h3:evaluating-the-quality-of-the-study-design Evaluating the quality of the study design
+h3:the-role-of-external-or-prior-information The role of external (or prior) information
+h2:reducing-bias-in-research-studies Reducing Bias in Research Studies
+h3:bias-vs.-precision Bias vs. Precision
+h3:common-study-designs-used-in-clinical-research Common study designs used in clinical research
+h3:randomized-controlled-trial Randomized Controlled Trial
+h3:reducing-bias-in-research-studies-1 Reducing bias in research studies
+h3:a-second-motivating-example-renal-denervation A second motivating example: Renal Denervation
+h3:example-4a-results-from-a-cohort-study-of-renal-denervation Example 4a: Results from a cohort study of renal denervation
+h3:example-4b-results-compared-to-a-control-group Example 4b: Results compared to a control group
+h3:example-4c-results-from-a-randomized-controlled-trial-rct-of-renal-denervation Example 4c: Results from a randomized controlled trial (RCT) of renal denervation
+h3:example-4d-results-from-a-second-randomized-controlled-trial-of-renal-denervation Example 4d: Results from a second randomized controlled trial of renal denervation
+h3:example-4-renal-denervation-as-a-treatment-for-resistant-hypertension Example 4: Renal Denervation as a treatment for resistant hypertension
+h3:lessons-learnt-from-renal-denervation-example Lessons learnt from renal denervation example
+h3:health-technology-assessment-of-renal-denervation Health Technology Assessment of Renal Denervation
+h2:random-sampling-and-randomization Random sampling and Randomization
+h3:sample-surveys Sample surveys
+h3:simple-random-sample Simple random sample
+h3:sample-surveys-1 Sample surveys*
+h3:margin-of-error Margin of error
+h3:how-to-choose-a-simple-random-sample How to choose a simple random sample
+h3:example-drawing-a-random-sample Example: Drawing a random sample
+h3:practical-concerns-when-random-sampling Practical concerns when random sampling
+h3:some-typical-biases-that-can-arise-during-a-survey Some typical biases that can arise during a survey
+h3:randomization Randomization
+h3:simple-randomization Simple randomization
+h3:relevance-of-statistical-methods-to-researchers-in-the-life-sciences Relevance of statistical methods to researchers in the life sciences
+h3:organizations-supporting-transparent-reporting-of-biomedical-research-evidence-based-decision-making Organizations supporting transparent reporting of biomedical research & evidence-based decision making
+h3:biomedical-journals-are-insisting-on-appropriate-statistical-methods Biomedical journals are insisting on appropriate statistical methods
+h3:fev-example-dataset FEV Example: Dataset
+h1:lecture-2-types-of-variables-probability-and-probability-distributions Lecture 2: Types of Variables, Probability and Probability Distributions
+h2:types-of-variables Types of variables
+h3:some-questions-on-types-of-variables Some questions on types of variables
+h3:qualitative-variables Qualitative variables
+h2:probability Probability
+h3:definitions Definitions
+h3:example-1-coin-tossing Example 1: Coin Tossing
+h3:example-2-coin-tossing-again Example 2: Coin Tossing again
+h3:interpretation-of-probability Interpretation of probability
+h3:relative-frequency-interpretation-of-probability Relative frequency interpretation of probability
+h3:subjective-interpretation-of-probability Subjective interpretation of probability
+h3:compound-events Compound events
+h3:some-questions-on-probability Some questions on probability
+h3:combining-probabilities-addition-rules Combining probabilities: Addition rules
+h3:combining-probabilities-multiplication-rules Combining probabilities: Multiplication rules
+h3:conditional-probability Conditional probability
+h3:probability-trees Probability Trees
+h3:example-3-independent-events Example 3: Independent events
+h3:albinism-example Albinism example
+h3:albinism-example-sample-space-and-probabilities Albinism example: Sample space and probabilities
+h3:example-4-medical-testing Example 4: Medical testing
+h3:medical-testing-example Medical testing example
+h2:probability-distributions Probability Distributions
+h3:population-and-sample Population and sample
+h3:notation Notation
+h3:parameters-statistics-probability-distributions Parameters, Statistics, Probability Distributions
+h3:binomial-distribution Binomial Distribution
+h3:binomial-distribution-function Binomial Distribution Function
+h3:albinism-example-for-a-couple-with-5-children-sample-space-and-probabilities Albinism example for a couple with 5 children: Sample space and probabilities
+h3:probability-distributions-in-r Probability distributions in R
+h3:example-binomial-distribution-in-practice Example: Binomial distribution in practice
+h3:mean-and-variance-of-random-variables Mean and variance of random variables
+h3:mean-and-variance-for-a-binomial-distribution Mean and variance for a Binomial distribution
+h3:probability-of-a-continuous-variable Probability of a continuous variable
+h3:probability-density-function-for-a-continuous-variable Probability density function for a continuous variable
+h3:normal-distribution Normal Distribution
+h3:normal-probability-density-function Normal probability density function
+h3:three-normal-curves-with-different-means-and-standard-deviations Three normal curves with different means and standard deviations
+h3:area-under-the-normal-curve Area under the normal curve
+h3:example-distribution-of-serum-cholesterol-values Example: Distribution of serum cholesterol values
+h3:area-under-the-normal-curve-1 Area under the normal curve
+h3:mean-and-variance-of-the-normal-distribution Mean and variance of the normal distribution
+h3:examples-of-discrete-distributions Examples of discrete distributions
+h3:bernoulli-distribution Bernoulli distribution
+h3:binomial-distribution-1 Binomial distribution
+h3:poisson-distribution Poisson distribution
+h3:example-transcriptomic-analyses Example: Transcriptomic Analyses
+h3:underlying-statistical-principles-of-commonly-used-packages Underlying statistical principles of commonly used packages
+h3:how-it-works How it works
+h3:what-would-be-a-suitable-probability-distribution What would be a suitable probability distribution?
+h3:poisson-distribution-is-limiting Poisson Distribution is limiting
+h3:negative-binomial-distribution Negative Binomial Distribution
+h3:conceptual-justification Conceptual Justification
+h3:additional-notes-and-practical-implications Additional Notes and Practical Implications
+h3:examples-of-continuous-distributions Examples of continuous distributions
+h3:normal-distribution-1 Normal distribution
+h3:uniform-distribution Uniform distribution
+h1:lecture-3-central-limit-theorem-and-inference-for-means Lecture 3: Central Limit Theorem and Inference for Means
+h2:mean-and-standard-deviation Mean and Standard Deviation
+h3:descriptive-statistics-vs.-inferential-statistics Descriptive statistics vs. Inferential Statistics
+h3:some-commonly-encountered-shapes-of-distributions-of-a-variable Some commonly encountered shapes of distributions of a variable
+h3:descriptive-statistics-notation Descriptive statistics: Notation
+h3:histogram-of-fev Histogram of FEV
+h3:measures-of-central-tendency Measures of central tendency
+h3:summary-of-fev-variable Summary of FEV variable
+h3:robustness Robustness
+h3:mean-vs.-median Mean vs. Median
+h3:quantiles Quantiles
+h3:measures-of-spread Measures of spread
+h3:summary-of-fev-variable-1 Summary of FEV variable
+h3:comparison-of-measures-of-spread Comparison of measures of spread
+h3:variance-and-standard-deviation Variance and Standard Deviation
+h3:why-n-1-rather-than-n Why n-1 rather than n?
+h2:central-limit-theorem Central Limit Theorem
+h3:example-1-serum-cholesterol-in-children Example 1: Serum cholesterol in children
+h3:the-sampling-distribution-of-bar-y The sampling distribution of 
+h3:example-sampling-distribution-of-bar-y-when-n10 Example: Sampling distribution of  when n=10
+h3:example-sampling-distribution-of-bar-y-when-n30 Example: Sampling distribution of  when n=30
+h3:example-sampling-distribution-of-bar-y-when-n100 Example: Sampling distribution of  when n=100
+h3:example-sampling-distribution-of-bar-y-when-n1000 Example: Sampling distribution of  when n=1000
+h3:example-1 Example 1
+h3:the-sampling-distribution-of-bar-y-1 The sampling distribution of 
+h3:central-limit-theorem-1 Central Limit Theorem
+h3:example-1-1 Example 1
+h3:theory-related-to-the-sums-of-random-variables Theory related to the sums of random variables
+h3:some-examples-related-to-the-sums-of-independent-random-variables Some examples related to the sums of independent random variables
+h4:excerpt-from-lawrence-josephs-notes Excerpt from Lawrence Joseph’s notes
+h3:example-2-central-limit-theorem-in-action Example 2: Central Limit Theorem in action
+h2:confidence-intervals-for-means Confidence intervals for means
+h3:confidence-interval-estimation-for-a-single-mean Confidence interval estimation for a single mean
+h3:t-distribution t-distribution
+h3:example-1-serum-potassium-concentration Example 1: Serum Potassium Concentration
+h3:example-1-histogram-of-the-data Example 1: Histogram of the data
+h3:verifying-assumptions-behind-the-t-distribution-confidence-interval Verifying assumptions behind the t-distribution confidence interval
+h3:example-1-standard-error-and-95-confidence-interval Example 1: Standard Error and 95% confidence interval
+h3:interpretation-of-the-95-confidence-interval Interpretation of the 95% confidence interval
+h3:confidence-level Confidence level
+h3:example-1-distribution-of-the-data-with-intervals Example 1: Distribution of the data (with intervals)
+h3:interpreting-the-confidence-interval Interpreting the confidence interval
+h3:standard-error-vs-standard-deviation Standard error vs Standard deviation
+h2:confidence-interval-for-the-difference-between-two-means Confidence interval for the difference between two means
+h3:example-2-nck1-deficiency-and-adipogenesis Example 2: Nck1 deficiency and adipogenesis
+h3:confidence-interval-for-the-difference-between-means-from-two-independent-samples Confidence interval for the difference between means from two independent samples
+h3:variance-of-the-difference-in-means Variance of the difference in means
+h3:calculating-degrees-of-freedom-of-the-t-distribution-when-variances-are-not-equal Calculating degrees of freedom of the t-distribution when variances are not equal
+h3:example-2-nck1-deficiency-and-adipogenesis-1 Example 2: Nck1 deficiency and adipogenesis
+h3:calculating-the-pooled-variance-for-body-weight Calculating the pooled variance for body weight
+h3:confidence-interval-for-difference-in-body-weight Confidence interval for difference in body weight
+h3:confidence-intervals-comparing-the-two-groups Confidence intervals comparing the two groups
+h3:interpreting-the-confidence-interval-1 Interpreting the confidence interval
+h2:sample-size-calculations Sample size calculations
+h3:an-illustration An illustration
+h3:sample-size-calculation Sample size calculation
+h3:sample-size-calculation-for-reporting-a-confidence-interval Sample size calculation for reporting a confidence interval
+h3:example-method-for-a-single-mean Example: Method for a single mean
+h3:the-desired-precision-is-much-smaller-than-the-standard-deviation-of-the-variable The desired precision is much smaller than the standard deviation of the variable
+h3:example-method-for-a-single-mean-1 Example: Method for a single mean
+h3:alternative-values-of-α-s-and-δ Alternative values of α, s and δ
+h3:example-sample-size-calculation-for-comparing-two-means Example: Sample size calculation for comparing two means
+h3:example-comparison-of-two-means Example: Comparison of two means
+h1:lecture-4-inference-for-means-continued Lecture 4: Inference for means continued
+h2:hypothesis-testing Hypothesis testing
+h3:example-1-nck1-and-adipogenesis-continued Example 1: Nck1 and adipogenesis continued
+h3:hypothesis-testing-1 Hypothesis testing
+h3:hypothesis-testing-for-a-single-mean Hypothesis testing for a single mean
+h3:mobility-after-stroke-two-sided-alternative-hypothesis Mobility after stroke: two-sided alternative hypothesis
+h3:mobility-after-stroke-one-sided-alternative-hypothesis-i Mobility after stroke: one-sided alternative hypothesis I
+h3:mobility-after-stroke-one-sided-alternative-hypothesis-ii Mobility after stroke: one-sided alternative hypothesis II
+h3:more-generally-the-hypothesis-test-for-a-single-mean-may-be-stated-as-follows More generally, the hypothesis test for a single mean may be stated as follows
+h3:example-mobility-after-stroke Example: Mobility after stroke
+h3:defining-the-test-statistic-and-the-rejection-region Defining the test statistic and the rejection region
+h3:defining-the-t-test-statistic Defining the t-test statistic
+h3:rejection-region-for-the-t-test Rejection region for the t-test
+h3:comparison-to-confidence-interval Comparison to confidence interval
+h3:determining-the-rejection-region-using-r Determining the rejection region using R
+h3:type-i-and-type-ii-errors Type I and Type II errors
+h3:hypothesis-testing-a-summary Hypothesis testing: A summary
+h3:similarity-between-diagnostic-testing-and-hypothesis-testing Similarity between diagnostic testing and hypothesis testing
+h3:defining-the-t-test-statistic-for-a-one-sided-test Defining the t-test statistic, for a one-sided test
+h3:why-did-the-test-statistic-not-change-for-the-one-sided-hypothesis-test Why did the test statistic not change for the one-sided hypothesis test?
+h3:what-is-statistical-significance What is statistical significance?
+h3:what-is-a-p-value What is a p-value?
+h3:p-value-illustrated p-value illustrated
+h3:type-i-and-type-ii-errors-1 Type I and Type II errors
+h3:t-test t-test
+h3:a-bit-of-history-pearson-vs.-fisher A bit of history: Pearson vs. Fisher
+h3:inference-for-comparing-two-means Inference for comparing two means
+h3:stroke-study-question-2-two-sided-alternative-hypothesis Stroke study: Question 2, two-sided alternative hypothesis
+h3:stroke-study-question-2-one-sided-hypothesis-i Stroke study: Question 2, one-sided hypothesis I
+h3:stroke-study-question-2-one-sided-hypothesis-ii Stroke study: Question 2, one-sided hypothesis II
+h3:example-one-sided-or-two-sided-test Example: One-sided or two-sided test?
+h3:difference-in-change-in-mobility-between-men-and-women Difference in change in mobility between men and women
+h3:comparing-change-in-mobility-between-men-and-women Comparing change in mobility between men and women
+h3:what-if-our-alternative-hypothesis-was-one-sided-instead What if our alternative hypothesis was one-sided instead?
+h3:what-if-our-alternative-hypothesis-was-one-sided-in-the-other-direction What if our alternative hypothesis was one-sided in the other direction?
+h3:what-if-our-null-hypothesis-was-one-sided-instead What if our null hypothesis was one-sided instead?
+h3:why-did-our-conclusion-change-when-we-moved-from-a-two-sided-to-a-one-sided-hypothesis Why did our conclusion change when we moved from a two-sided to a one-sided hypothesis?
+h2:hypothesis-testing-vs.-confidence-interval-estimation Hypothesis testing vs. confidence interval estimation
+h3:what-is-statistics-1 What is statistics?
+h3:quantifying-uncertainty-vs.-decision-making Quantifying uncertainty vs. decision making
+h3:interpreting-confidence-intervals-vs.-hypothesis-tests Interpreting Confidence Intervals vs. Hypothesis Tests
+h4:interpreting-confidence-intervals-5-possible-conclusions Interpreting confidence intervals: 5 possible conclusions
+h3:notes-on-significance-tests Notes on significance tests
+h2:sample-size-calculations-for-studies-of-one-or-two-means Sample size calculations for studies of one or two means
+h3:sample-size-for-hypothesis-tests Sample size for hypothesis tests
+h3:example Example
+h3:we-are-interested-in-detecting-a-shift-in-the-mean-of-the-distribution We are interested in detecting a shift in the mean of the distribution
+h3:sample-size-required-for-a-hypothesis-test-of-a-single-mean Sample size required for a hypothesis test of a single mean
+h3:sample-size-required-under-different-scenarios Sample size required under different scenarios
+h3:example-serum-cholesterol Example: Serum cholesterol
+h3:summary-what-do-you-need-to-calculate-the-sample-size-required Summary: What do you need to calculate the sample size required?
+h3:sample-size-calculation-comparing-two-means Sample size calculation: Comparing two means
+h3:example-2 Example
+h3:sample-size-required-to-test-h_0mu_1mu_2 Sample size required to test 
+h3:example-in-vivo-efficacy-of-p1.40 Example: In-vivo efficacy of P1.40
+h3:power Power
+h3:calculating-the-power-in-r Calculating the power in R
+h3:example-power-function Example: Power function
+h3:what-is-the-impact-of-equal-or-unequal-group-sizes-on-the-precision What is the impact of equal or unequal group sizes on the precision?
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-both-groups-are-equally-difficult-to-sample-from Effect of different numbers in each sample on precision, when both groups are equally difficult to sample from
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-group-1-is-more-scarce-than-group-2 Effect of different numbers in each sample on precision, when group 1 is more scarce than group 2
+h3:an-r-package-for-sample-size-and-power-calculations An R package for sample size and power calculations
+h3:installing-a-package-in-r Installing a package in R
+h3:sample-size-for-comparing-two-means Sample size for comparing two means
+h4:example-1-2 Example 1:
+h4:example-2-1 Example 2:
+h2:extra-problems Extra Problems
+h3:section 1.
+h3:section-1 2.
+h1:lecture-5-sample-size-calculations-to-plan-for-hypothesis-tests-of-means Lecture 5: Sample size calculations to plan for hypothesis tests of means
+h2:sample-size-calculation-1 Sample size calculation
+h3:type-i-and-type-ii-errors-2 Type I and Type II errors
+h3:similarity-between-diagnostic-testing-and-hypothesis-testing-1 Similarity between diagnostic testing and hypothesis testing
+h3:example-3 Example
+h3:we-are-interested-in-detecting-a-shift-in-the-mean-of-the-distribution-1 We are interested in detecting a shift in the mean of the distribution
+h3:sample-size-required-for-a-hypothesis-test-of-a-single-mean-1 Sample size required for a hypothesis test of a single mean
+h3:sample-size-required-under-different-scenarios-for-a-one-sided-test Sample size required under different scenarios for a one-sided test
+h3:example-serum-cholesterol-1 Example: Serum cholesterol
+h3:summary-input-needed-to-calculate-sample-size-for-single-mean Summary: Input needed to calculate sample size for single mean
+h3:example-planning-a-study-to-compare-means-using-a-hypothesis-test Example: Planning a study to compare means using a hypothesis test
+h3:sample-size-required-to-compare-means Sample size required to compare means
+h3:example-sample-size-required-to-compare-nck1-wt-and-ko-mice Example: Sample size required to compare Nck1 WT and KO mice
+h3:power-1 Power
+h3:calculating-the-power-in-r-1 Calculating the power in R
+h3:example-power-function-1 Example: Power function
+h3:what-is-the-impact-of-equal-or-unequal-group-sizes-on-the-precision-1 What is the impact of equal or unequal group sizes on the precision?
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-both-groups-are-equally-difficult-to-sample-from-1 Effect of different numbers in each sample on precision, when both groups are equally difficult to sample from
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-group-1-is-more-scarce-than-group-2-1 Effect of different numbers in each sample on precision, when group 1 is more scarce than group 2
+h3:an-r-package-for-sample-size-and-power-calculations-1 An R package for sample size and power calculations
+h3:installing-a-package-in-r-1 Installing a package in R
+h3:sample-size-for-comparing-two-means-1 Sample size for comparing two means
+h4:example-1-3 Example 1:
+h4:example-2-2 Example 2:
+h1:lecture-6-bayesian-inference-for-means Lecture 6: Bayesian inference for means
+h2:example-beach-water-quality Example: Beach Water Quality
+h3:descriptive-statistics Descriptive Statistics
+h3:frequentist-inference Frequentist inference
+h3:p-value p-value
+h3:confidence-interval 95% confidence interval
+h3:bayesian-analysis Bayesian analysis
+h3:what-is-the-true-mean-e.-coli-count-µ What is the true mean E. coli count (µ)?
+h3:bayesian-inductive-vs.-frequentist-deductive-thinking Bayesian (inductive) vs. Frequentist (deductive) thinking
+h3:principal-elements-of-a-bayesian-analysis Principal elements of a Bayesian analysis
+h3:the-prior-distribution The prior distribution
+h3:beach-water-quality-bayesian-analysis Beach Water Quality: Bayesian analysis
+h3:two-possible-prior-distributions Two possible prior distributions
+h3:illustration-of-the-two-prior-distributions Illustration of the two prior distributions
+h3:applying-bayes-theorem Applying Bayes Theorem
+h3:the-normal-posterior-distribution The normal posterior distribution
+h3:beach-water-quality-example-non-informative-prior Beach Water Quality Example: Non-informative prior
+h3:bayesian-analysis-using-r Bayesian analysis using R
+h3:posterior-distribution-compared-to-likelihood-and-non-informative-prior Posterior distribution compared to likelihood and non-informative prior
+h3:prior-and-posterior-distribution-plot-from-r Prior and posterior distribution plot from R
+h3:statistics-typically-reported-in-a-bayesian-analysis Statistics typically reported in a Bayesian analysis
+h3:interpretation-of-the-bayesian-credible-interval-cri Interpretation of the Bayesian credible interval (CrI)
+h3:mean-e.-coli-counts-hypothesis-testing-vs.-confidence-interval-vs.-bayesian-inference Mean E. coli counts: Hypothesis testing vs. confidence interval vs. Bayesian inference
+h3:beach-water-quality-informative-prior-distribution Beach Water Quality: Informative prior distribution
+h3:expressing-the-95-ci-from-earlier-data-as-a-normal-distribution Expressing the 95% CI from earlier data as a normal distribution
+h3:beach-water-quality-example-informative-prior Beach Water Quality Example: Informative prior
+h3:non-informative-prior Non-informative prior
+h3:results-with-non-informative-vs.-informative-prior Results with non-informative vs. informative prior
+h4:non-informative-prior-1 Non-informative prior
+h4:informative-prior Informative prior
+h3:r-code-for-bayesian-analysis R code for Bayesian analysis
+h3:beach-water-quality-example Beach Water Quality Example
+h3:example-renal-denervation Example: Renal Denervation
+h3:re-analysis-of-renal-denervation-data-using-a-bayesian-approach Re-analysis of Renal Denervation data using a Bayesian approach
+h3:posterior-distributions Posterior distributions
+h3:posterior-distribution-of-the-difference-between-the-two-groups Posterior distribution of the difference between the two groups
+h3:posterior-distribution-of-the-difference-between-the-two-groups-1 Posterior distribution of the difference between the two groups
+h3:summary-of-results-hypothesis-testing-vs.-confidence-interval-vs.-bayesian-inference Summary of results: Hypothesis testing vs. confidence interval vs. Bayesian inference
+h3:update-on-the-renal-denervation-story Update on the renal denervation story
+h3:why-is-bayesian-inference-not-used-more-widely Why is Bayesian inference not used more widely?
+h3:are-bayesian-methods-worth-the-effort Are Bayesian methods worth the effort?
+h3:are-bayesian-methods-complex Are Bayesian methods complex?
+h2:risk-of-incorrect-conclusions-with-hypothesis-testing Risk of incorrect conclusions with hypothesis testing
+h3:concerns-with-hypothesis-testing Concerns with hypothesis testing
+h3:optimizing-decision-making Optimizing decision making
+h3:concerns-with-p-values Concerns with p-values
+h3:factors-that-influence-the-accuracy-of-hypothesis-testing Factors that influence the accuracy of hypothesis testing
+h3:probabilities-of-true-and-false-reporting Probabilities of true and false reporting
+h3:illustration-from-nuzzo-et-al. Illustration from Nuzzo et al.
+h3:illustration-of-true-and-false-reporting-probabilities Illustration of true and false reporting probabilities
+h3:pre-study-odds-of-h0h1 Pre-study odds of H0:H1
+h1:lecture-7-statistical-inference-for-proportions Lecture 7: Statistical inference for proportions
+h2:when-is-a-single-proportion-used When is a single proportion used?
+h3:central-limit-theorem-2 Central Limit Theorem
+h3:application-of-the-central-limit-theorem-normal-approximation-to-the-binomial-distribution Application of the Central Limit Theorem: Normal Approximation to the Binomial Distribution
+h3:sampling-distributions-when-π0.1 Sampling distributions when π=0.1
+h3:sampling-distributions-when-π0.5 Sampling distributions when π=0.5
+h3:sampling-distributions-when-π0.9 Sampling distributions when π=0.9
+h3:sampling-distribution-of-a-binomial-variable Sampling distribution of a Binomial variable
+h3:normal-approximation-to-the-binomial-distribution Normal approximation to the Binomial distribution
+h3:example-4-estimating-the-number-of-true-positives Example 4: Estimating the number of true positives
+h3:example-4-applying-a-continuity-correction Example 4: Applying a continuity correction
+h3:continuity-correction Continuity correction
+h3:example-4 Example
+h3:comparison-with-the-exact-results-based-on-the-binomial-distribution Comparison with the exact results based on the Binomial distribution
+h3:example-asymptomatic-colonization-with-clostridium-difficile Example: Asymptomatic colonization with Clostridium difficile
+h3:asymptomatic-colonization-with-clostridium-difficile-selected-results Asymptomatic colonization with Clostridium difficile: Selected results
+h3:example-asymptomatic-colonization-with-clostridium-difficile-1 Example: Asymptomatic colonization with Clostridium difficile
+h3:methods-for-means-vs.-proportions Methods for means vs. proportions
+h3:analogy-between-calculation-of-means-and-proportions Analogy between calculation of means and proportions
+h3:frequentist-confidence-interval-for-a-single-proportion Frequentist confidence interval for a single proportion
+h3:large-sample-confidence-interval-for-a-proportion Large sample confidence interval for a proportion
+h3:exact-confidence-interval-for-a-proportion Exact confidence interval for a proportion
+h3:clopper-pearson-exact-confidence-interval-for-a-proportion-biometrika-1934 Clopper-Pearson exact confidence interval for a proportion (Biometrika, 1934)
+h3:exact-confidence-interval-for-a-proportion-1 Exact confidence interval for a proportion
+h3:r-function-to-obtain-a-confidence-interval-for-a-small-proportion R function to obtain a confidence interval for a small proportion
+h3:exact-confidence-interval-for-a-proportion-2 Exact confidence interval for a proportion
+h3:how-do-you-determine-if-your-sample-is-sufficiently-large How do you determine if your sample is sufficiently large?
+h3:example-zero-proportion Example: Zero proportion
+h3:example-binom.test Example: binom.test()
+h3:example-asymptomatic-colonization-with-c.-difficile Example: Asymptomatic colonization with C. difficile
+h3:exact-or-approximate-ci Exact or approximate CI?
+h3:ci-for-proportion 95% CI for proportion
+h3:exact-or-approximate-ci-1 Exact or approximate CI?
+h3:exact-95-equal-tailed-confidence-interval-for-proportion-of-probiotic-use Exact 95% equal-tailed confidence interval for proportion of probiotic use
+h3:confidence-intervals-for-proportion-of-patients-with-risk-factor-among-patients-asymptomatically-colonized-with-c.-difficile 95% confidence intervals for proportion of patients with risk factor among patients asymptomatically colonized with C. difficile
+h3:statistics-used-to-compare-two-proportions-p_1-and-p_2 Statistics used to compare two proportions  and 
+h3:example-probiotics-for-prevention-of-cdad Example: Probiotics for prevention of CDAD
+h3:results-from-two-randomized-controlled-trials Results from two randomized controlled trials
+h3:forest-plot-of-relative-risk-from-10-studies Forest plot of relative risk from 10 studies
+h3:results-from-two-randomized-controlled-trials-1 Results from two randomized controlled trials
+h3:confidence-interval-for-the-difference-between-two-proportions Confidence Interval for the difference between two proportions
+h3:hypothesis-test-for-comparing-two-proportions Hypothesis test for comparing two proportions
+h3:probiotics-example-confidence-interval-for-difference-in-proportions Probiotics example: Confidence interval for difference in proportions
+h3:probiotics-example-hypothesis-test Probiotics example: Hypothesis test
+h3:probiotics-example-results-for-both-studies Probiotics example: Results for both studies
+h3:comparing-two-proportions-in-r Comparing two proportions in R
+h4:description Description
+h4:usage Usage
+h3:probiotics-example-obtaining-the-results-in-r Probiotics example: Obtaining the results in R
+h4:gao-study Gao study
+h4:allen-study Allen study
+h3:number-needed-to-treat Number needed to treat
+h3:probiotics-example-number-needed-to-treat Probiotics example: Number needed to treat
+h3:confidence-interval-for-number-needed-to-treat Confidence interval for number needed to treat
+h2:sample-size-determination-for-studies-of-proportions Sample size determination for studies of proportions
+h3:sample-size-for-desired-margin-of-error Sample Size For Desired Margin Of Error
+h3:sample-size-for-desired-power-and-type-i-error Sample Size For Desired Power And Type I Error
+h3:example-5 Example
+h3:planning-a-study-to-compare-proportions Planning a study to compare proportions
+h3:sample-size-formulae Sample size formulae
+h3:example-6 Example
+h3:inputs-for-the-sample-size-calculation Inputs for the sample size calculation
+h3:example-7 Example
+h1:lecture-8-other-statistics-for-comparing-proportions-and-methods-for-contingency-tables Lecture 8: Other statistics for comparing proportions and methods for contingency tables
+h2:odds Odds
+h3:odds-ratio-and-relative-risk Odds Ratio and Relative Risk
+h3:confidence-interval-for-an-odds-ratio Confidence interval for an odds ratio
+h3:confidence-interval-for-the-relative-risk Confidence interval for the relative risk
+h3:probiotics-example-results-for-both-studies-1 Probiotics example: Results for both studies
+h3:probiotics-and-cdad-rearranging-the-data Probiotics and CDAD: Rearranging the data
+h3:r-function-for-odds-ratio-and-relative-risk R function for odds ratio and relative risk
+h3:example-probiotics-and-cdad Example: Probiotics and CDAD
+h3:example-95-confidence-intervals-for-gao-et-al. Example: 95% confidence intervals for Gao et al.
+h3:example-95-confidence-intervals-for-otitis-data Example: 95% confidence intervals for otitis data
+h3:example-probiotics-and-cdad-1 Example: Probiotics and CDAD
+h3:risk-ratio-vs.-risk-difference Risk ratio vs. risk difference
+h2:methods-for-contingency-tables Methods for contingency tables
+h3:comparing-two-or-more-proportions-the-generic-setup Comparing Two or More Proportions: The generic setup
+h3:examples-from-two-randomized-controlled-trials Examples from two randomized controlled trials
+h3:r-code-to-examine-an-r-c-table R code to examine an r × c table
+h3:output-from-r Output from R
+h3:hypothesis-tests-to-compare-two-or-more-proportions Hypothesis tests to compare two or more proportions
+h3:methods-to-compare-two-or-more-proportions Methods to Compare Two or More Proportions
+h3:examples-from-two-randomized-controlled-trials-1 Examples from two randomized controlled trials
+h3:methods-to-compare-two-or-more-proportions-1 Methods to Compare Two or More Proportions
+h3:which-method-do-we-use Which method do we use?
+h3:hypothesis-test-for-comparing-two-or-more-proportions Hypothesis test for comparing two or more proportions
+h3:example-one-sample-chi2-test Example: One Sample  test
+h3:calculating-the-p-value-under-a-chi-square-distribution Calculating the p-value under a chi-square distribution
+h3:example-two-sample-chi2-test Example: Two sample  Test
+h3:example-chi2-test-for-the-2-x-3-table Example:  test for the 2 x 3 Table
+h3:some-more-notes-on-the-chi-square-test Some more notes on the chi-square test
+h3:chi-square-test-in-r Chi-square test in R
+h3:chi-square-test-for-a-single-proportion Chi-square test for a single proportion
+h3:two-sample-chi2-test-in-r Two sample  Test in R
+h3:three-sample-chi2-test-in-r Three sample  Test in R
+h3:example-ecmo Example: ECMO
+h3:example-fishers-exact-test Example: Fisher’s Exact Test
+h3:fishers-exact-test Fisher’s exact test
+h3:example-fishers-exact-test-1 Example: Fisher’s exact test
+h3:calculation-of-p-value-for-fishers-exact-test Calculation of p-value for Fisher’s exact test
+h3:fishers-exact-test-1 Fisher’s exact test
+h3:carrying-out-fishers-exact-test-in-r---two-sided-alternative Carrying out Fisher’s exact test in R - two-sided alternative
+h3:carrying-out-fishers-exact-test-in-r---one--sided-alternative Carrying out Fisher’s exact test in R - one -sided alternative
+h4:alternative-cmt-has-higher-risk-of-dying Alternative: CMT has higher risk of dying
+h4:alternative-ecmo-has-higher-risk-of-dying Alternative: ECMO has higher risk of dying
+h1:lecture-9-non-parametric-methods Lecture 9: Non-parametric methods
+h2:parametric-inference Parametric Inference
+h3:examples Examples
+h3:non-parametric-inference Non-Parametric Inference
+h3:hypothesis-testing-procedure Hypothesis testing procedure
+h3:example-comparison-of-two-matched-samples Example: Comparison of Two Matched Samples
+h3:example-8 Example
+h3:comparison-of-two-matched-samples-the-sign-test Comparison of Two Matched Samples: The Sign Test
+h3:the-sign-test-the-test-statistic The Sign Test: The test statistic
+h3:the-sign-test-calculating-the-p-value The Sign Test: Calculating the p-value
+h3:example-9 Example
+h3:carrying-out-the-sign-test-in-r Carrying out the Sign Test in R
+h3:are-non-parameteric-methods-really-distribution-free Are non-parameteric methods really ?
+h3:comparison-of-two-matched-samples-the-wilcoxon-signed-rank-test Comparison of Two Matched Samples: The Wilcoxon Signed Rank Test
+h3:example-wilcoxon-signed-rank-test Example: Wilcoxon Signed Rank Test
+h3:wilcoxon-signed-rank-test-in-r Wilcoxon Signed Rank Test in R
+h3:normal-approximation-to-the-sign-and-wilcoxon-signed-rank-tests Normal approximation to the Sign and Wilcoxon Signed Rank Tests
+h3:normal-approximation-to-the-wilcoxon-signed-rank-test Normal approximation to the Wilcoxon Signed Rank Test
+h3:comparison-of-two-unmatched-samples Comparison of two unmatched samples
+h3:wilcoxon-rank-sum-test Wilcoxon Rank Sum Test
+h3:wilcoxon-rank-sum-test-calculation-of-the-test-statistic Wilcoxon Rank Sum Test: Calculation of the test statistic
+h3:exact-wilcoxon-rank-sum-test Exact Wilcoxon Rank Sum Test
+h3:example-wilcoxon-rank-sum-test Example: Wilcoxon Rank Sum Test
+h3:approximate-wilcoxon-rank-sum-test Approximate Wilcoxon Rank Sum Test
+h3:wilcoxon-rank-sum-test-in-r Wilcoxon Rank Sum Test in R
+h3:summary-of-hypothesis-tests-covered-in-this-course Summary of hypothesis tests covered in this course
+h2:bootstrap-confidence-interval Bootstrap confidence interval
+h3:confidence-intervals-vs.-hypothesis-testing Confidence intervals vs. Hypothesis Testing
+h3:bootstrap-confidence-intervals Bootstrap confidence intervals
+h3:bootstrap-example Bootstrap: Example
+h3:the-empirical-bootstrap The empirical bootstrap
+h3:example-10 Example
+h3:r-code-for-bootstrap R code for bootstrap
+h1:lecture-10-analysis-of-variance-anova Lecture 10: Analysis of Variance (ANOVA)
+h2:introduction-1 Introduction
+h3:example-mao-and-schizophrenia Example: MAO and Schizophrenia
+h3:why-not-answer-these-questions-with-repeated-t-tests Why not answer these questions with repeated t-tests?
+h3:graphical-perspective-on-anova Graphical perspective on ANOVA
+h3:one-way-anova One-way ANOVA
+h3:one-way-anova-assumptions One-way ANOVA: Assumptions
+h3:one-way-anova-notation One-way ANOVA: Notation
+h3:one-way-anova-mao-and-schizophrenia One-way ANOVA: MAO and Schizophrenia
+h3:anova-within-group-variation ANOVA: Within-group variation
+h3:mao-within-group-variation MAO: Within-group variation
+h3:anova-between-group-variation ANOVA: Between-group variation
+h3:mao-between-group-variation MAO: Between-group variation
+h3:a-fundamental-relationship-of-anova A fundamental relationship of ANOVA
+h3:anova-table ANOVA table
+h3:mao-example-anova-table MAO Example: ANOVA table
+h3:the-f-test The F-test
+h3:mao-example-the-f-test MAO example: The F-test
+h3:the-f-distribution The F-distribution
+h3:rejection-region Rejection region
+h3:mao-example-conclusion MAO example: Conclusion
+h3:anova-in-r ANOVA in R
+h3:checking-the-assumptions-of-anova Checking the assumptions of ANOVA
+h3:residuals-for-mao-example Residuals for MAO example
+h3:quantile-quantile-plot-to-check-for-normality Quantile-quantile plot to check for normality
+h3:quantile-quantile-qq-plot-for-mao-data Quantile-quantile (QQ) plot for MAO data
+h3:residual-plot-to-evaluate-constant-variance-across-groups Residual plot to evaluate constant variance across groups
+h3:residuals-for-mao-example-1 Residuals for MAO example
+h3:multiple-comparisons Multiple comparisons
+h3:multiple-comparisons-solutions Multiple comparisons: Solutions
+h3:bonferroni-correction Bonferroni correction
+h3:bonferroni-correction-for-the-mao-example Bonferroni correction for the MAO example
+h3:bonferroni-correction-1 Bonferroni correction
+h3:tukeys-confidence-interval Tukey’s confidence interval
+h3:results-for-the-mao-data Results for the MAO data
+h3:multiple-comparisons-the-debate Multiple comparisons: The debate
+h3:steps-involved-in-anova Steps involved in ANOVA
+h1:lecture-11-analysis-of-variance-anova-2 Lecture 11: Analysis of Variance (ANOVA) 2
+h2:way-anova-model 1-way ANOVA model
+h3:extending-the-1-way-anova-model Extending the 1-way ANOVA model
+h3:study-designs-handled-with-2-way-anova-models Study designs handled with 2-way ANOVA models
+h3:example-repeated-measures-design Example: Repeated Measures Design
+h3:number-of-study-units-from-3rs-website-of-michael-festing Number of study units (from 3rs website of Michael Festing)
+h3:example-repeated-measures-design-1 Example: Repeated Measures Design
+h3:example-2-way-anova-model Example: 2-way ANOVA model
+h3:example-visualizing-the-patient-effects Example: Visualizing the patient-effects
+h3:example-1-way-anova-model Example: 1-way ANOVA model
+h3:example-2-way-anova-model-1 Example: 2-way ANOVA model
+h3:way-anova-in-r 2-way ANOVA in R
+h3:example-factorial-design Example: Factorial Design
+h3:example-2-way-anova-model-2 Example: 2-way ANOVA model
+h3:example-2-way-anova-table Example: 2-way ANOVA table
+h3:example-2-way-anova-table-in-r Example: 2-way ANOVA table in R
+h3:example-pairwise-comparisons Example: Pairwise comparisons
+h3:assumptions-behind-2-way-anova Assumptions behind 2-way ANOVA
+h2:correlation Correlation
+h3:association-between-age-bp Association between age & BP
+h3:the-correlation-coefficient The correlation coefficient
+h3:pearsons-correlation-coefficient Pearson’s correlation coefficient
+h3:properties-of-rho Properties of 
+h3:scatterplots-of-data-with-a-variety-of-sample-correlation-values Scatterplots of data with a variety of sample correlation values
+h3:example-length-and-weight-of-snakes Example: Length and weight of snakes
+h3:scatterplot-of-weight-vs.-length-of-snakes Scatterplot of weight vs. length of snakes
+h3:how-strong-is-the-linear-relationship-between-snake-length-and-weight How strong is the linear relationship between snake length and weight?
+h3:scatterplot-of-standardized-values-of-weight-vs.-length-of-snakes Scatterplot of standardized values of weight vs. length of snakes
+h3:example-calculating-the-correlation-coefficient Example: Calculating the correlation coefficient
+h3:inference-about-rho-test-for-a-zero-population-correlation Inference about  : Test For A Zero Population Correlation
+h3:example-blood-pressure-and-platelet-calcium Example: Blood pressure and platelet calcium
+h3:inferences-on-rho-1-α-confidence-interval Inferences on : (1-α)% confidence interval
+h3:example-blood-pressure-and-platelet-calcium-1 Example: Blood pressure and platelet calcium
+h3:correlation-coefficient-in-r Correlation coefficient in R
+h1:lecture-12-simple-and-multiple-linear-regression Lecture 12: Simple and Multiple Linear Regression
+h2:correlation-and-simple-linear-regression Correlation and Simple Linear Regression
+h3:simple-and-multiple-linear-regression Simple and Multiple Linear Regression
+h3:research-question Research question
+h3:terminologies Terminologies
+h3:finch-mayo-dataset Finch-Mayo Dataset
+h3:knowing-the-type-of-outcome-measure-can-help-specify-the-theoretical-model Knowing the type of outcome measure can help specify the theoretical model
+h3:research-question-1 Research question
+h3:measurement-scale Measurement scale
+h3:walking-capacity---physical-function Walking capacity <- Physical Function?
+h3:descriptive-statistics-and-graphs Descriptive statistics and graphs
+h3:histogram-of-walking-capacity Histogram of walking capacity
+h3:walking-capacity-vs.-physical-function Walking capacity vs. Physical Function
+h3:correlation-between-physical-function-and-walking-capacity Correlation between physical function and walking capacity
+h3:results-of-simple-linear-regression-walking-capacity---pfi Results of simple linear regression: Walking capacity <- PFI
+h4:output-from-r-1 Output from R
+h3:simple-linear-regression Simple Linear Regression
+h3:comparison-of-regression-lines Comparison of Regression Lines
+h3:simple-linear-regression-model Simple Linear Regression Model
+h3:illustration-of-assumptions-behind-simple-linear-regression Illustration of assumptions behind Simple Linear Regression
+h3:assumptions-involved-in-simple-linear-regression Assumptions involved in Simple Linear Regression
+h3:simple-linear-regression-1 Simple Linear Regression
+h3:residual Residual
+h3:simple-linear-regression-2 Simple Linear Regression
+h3:estimating-a-and-b-using-the-method-of-least-squares Estimating a and b using the method of least squares
+h3:relation-between-slope-and-correlation-coefficient Relation between slope and correlation coefficient
+h3:estimating-the-error-variance Estimating the error variance
+h3:expressions-for-standard-errors-and-confidence-intervals-for-parameter-estimates Expressions for standard errors and confidence intervals for parameter estimates
+h3:hypothesis-tests-for-regression-coefficients Hypothesis tests for regression coefficients
+h3:estimating-the-regression-line Estimating the regression line
+h3:best-fitting-straight-line Best fitting straight line
+h3:confidence-interval-for-b Confidence interval for b
+h3:change-in-walking-capacity-for-a-1-sd-change-in-physical-function Change in walking capacity for a 1 SD change in physical function
+h3:estimating-average-walking-capacity-for-patients-with-physical-function50 Estimating average Walking Capacity for patients with Physical Function=50
+h3:ci-for-average-walking-capacity-among-patients-with-pf50 95% CI for average Walking Capacity among patients with PF=50
+h3:ci-for-predicted-walking-capacity-in-an-individual-patient-with-pf50 95% CI for predicted Walking Capacity in an individual patient with PF=50
+h3:regression-diagnostics-using-residuals Regression diagnostics using residuals
+h3:plot-of-residuals-vs.-predicted-value-haty-or-exposure-x Plot of residuals vs. predicted value  or exposure (X)
+h3:residual-plot-prototype-a-ideal-situation-no-apparent-pattern Residual plot: Prototype (a), Ideal Situation: No apparent pattern
+h3:residual-plot-prototype-b-suggests-that-the-linear-model-is-inappropriate.-quadratic-model-with-x2-may-be-needed Residual plot: Prototype (b), Suggests that the linear model is inappropriate. Quadratic model (with ) may be needed
+h3:how-does-the-non-linear-pattern-arise How does the non-linear pattern arise?
+h3:residual-plot-prototype-c-plot-suggests-variance-is-not-constant.-transformation-may-help. Residual plot: Prototype (c), Plot suggests variance is not constant. Transformation may help.
+h3:residual-plot-for-walking-capacity-vs.-physical-function-model Residual plot for Walking Capacity vs. Physical Function model
+h3:what-is-the-impact-of-an-outlier What is the impact of an outlier?
+h3:what-should-we-do-with-an-outlier What should we do with an outlier?
+h3:qq-plot-to-see-if-residuals-are-normally-distributed QQ-plot to see if residuals are normally distributed
+h3:q-q-plot-for-walking-capacity-vs.-physical-function-model Q-Q plot for Walking Capacity vs. Physical Function model
+h3:what-does-the-qq-plot-tell-us What does the QQ plot tell us?
+h3:goodness-of-fit Goodness of fit
+h3:multiple-linear-regression-conceptual-model Multiple Linear Regression: Conceptual Model
+h3:self-perceived-health---physical-function-covariates Self-Perceived Health <- Physical Function + covariates
+h3:exploratory-analyses Exploratory analyses
+h3:multiple-linear-regression-model Multiple Linear Regression Model
+h3:results-of-simple-and-multiple-linear-regression-models Results of simple and multiple linear regression models
+h3:interpretation-of-regression-coefficients-in-a-model-with-interaction-terms Interpretation of regression coefficients in a model with interaction terms
+h3:interpretation-of-coefficients-of-interaction-terms Interpretation of coefficients of interaction terms
+h3:model-checking Model checking
+h3:residuals-vs.-fitted-values-for-our-example Residuals vs. Fitted values for our example
+h3:standardized-residuals-vs.-fitted-values Standardized Residuals vs. Fitted Values
+h3:qq-normal-plot-of-standardized-residuals QQ (normal)-plot of standardized residuals
+h3:vif-for-our-example VIF for our example
+h3:model-with-centred-pfi-and-mhi-notice-change-in-slopes-of-these-variables Model with centred PFI and MHI (notice change in slopes of these variables!)
+h3:results-of-multiple-linear-regression-model-before-and-after-centering Results of multiple linear regression model before and after centering
+h3:revised-interpretation-of-interaction-terms Revised interpretation of interaction terms
+h3:interpretation-of-regression-coefficients-in-a-model-with-centred-explanatory-variables Interpretation of regression coefficients in a model with centred explanatory variables
+h3:inference-for-slopes Inference for slopes
+h3:example-inference-for-slope-of-pfi-when-mhi90 Example: Inference for slope of PFI when MHI=90
+h3:anova-table-for-multiple-linear-regression-model ANOVA table for Multiple Linear Regression Model
+h3:adjusted-r-squared Adjusted R-squared
+

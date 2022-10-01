@@ -1,0 +1,64 @@
+h1:lecture-7-statistical-inference-for-proportions Lecture 7: Statistical inference for proportions
+h2:when-is-a-single-proportion-used When is a single proportion used?
+h3:central-limit-theorem Central Limit Theorem
+h3:application-of-the-central-limit-theorem-normal-approximation-to-the-binomial-distribution Application of the Central Limit Theorem: Normal Approximation to the Binomial Distribution
+h3:sampling-distributions-when-π0.1 Sampling distributions when π=0.1
+h3:sampling-distributions-when-π0.5 Sampling distributions when π=0.5
+h3:sampling-distributions-when-π0.9 Sampling distributions when π=0.9
+h3:sampling-distribution-of-a-binomial-variable Sampling distribution of a Binomial variable
+h3:normal-approximation-to-the-binomial-distribution Normal approximation to the Binomial distribution
+h3:example-4-estimating-the-number-of-true-positives Example 4: Estimating the number of true positives
+h3:example-4-applying-a-continuity-correction Example 4: Applying a continuity correction
+h3:continuity-correction Continuity correction
+h3:example Example
+h3:comparison-with-the-exact-results-based-on-the-binomial-distribution Comparison with the exact results based on the Binomial distribution
+h3:example-asymptomatic-colonization-with-clostridium-difficile Example: Asymptomatic colonization with Clostridium difficile
+h3:asymptomatic-colonization-with-clostridium-difficile-selected-results Asymptomatic colonization with Clostridium difficile: Selected results
+h3:example-asymptomatic-colonization-with-clostridium-difficile-1 Example: Asymptomatic colonization with Clostridium difficile
+h3:methods-for-means-vs.-proportions Methods for means vs. proportions
+h3:analogy-between-calculation-of-means-and-proportions Analogy between calculation of means and proportions
+h3:frequentist-confidence-interval-for-a-single-proportion Frequentist confidence interval for a single proportion
+h3:large-sample-confidence-interval-for-a-proportion Large sample confidence interval for a proportion
+h3:exact-confidence-interval-for-a-proportion Exact confidence interval for a proportion
+h3:clopper-pearson-exact-confidence-interval-for-a-proportion-biometrika-1934 Clopper-Pearson exact confidence interval for a proportion (Biometrika, 1934)
+h3:exact-confidence-interval-for-a-proportion-1 Exact confidence interval for a proportion
+h3:r-function-to-obtain-a-confidence-interval-for-a-small-proportion R function to obtain a confidence interval for a small proportion
+h3:exact-confidence-interval-for-a-proportion-2 Exact confidence interval for a proportion
+h3:how-do-you-determine-if-your-sample-is-sufficiently-large How do you determine if your sample is sufficiently large?
+h3:example-zero-proportion Example: Zero proportion
+h3:example-binom.test Example: binom.test()
+h3:example-asymptomatic-colonization-with-c.-difficile Example: Asymptomatic colonization with C. difficile
+h3:exact-or-approximate-ci Exact or approximate CI?
+h3:ci-for-proportion 95% CI for proportion
+h3:exact-or-approximate-ci-1 Exact or approximate CI?
+h3:exact-95-equal-tailed-confidence-interval-for-proportion-of-probiotic-use Exact 95% equal-tailed confidence interval for proportion of probiotic use
+h3:confidence-intervals-for-proportion-of-patients-with-risk-factor-among-patients-asymptomatically-colonized-with-c.-difficile 95% confidence intervals for proportion of patients with risk factor among patients asymptomatically colonized with C. difficile
+h3:statistics-used-to-compare-two-proportions-p_1-and-p_2 Statistics used to compare two proportions  and 
+h3:example-probiotics-for-prevention-of-cdad Example: Probiotics for prevention of CDAD
+h3:results-from-two-randomized-controlled-trials Results from two randomized controlled trials
+h3:forest-plot-of-relative-risk-from-10-studies Forest plot of relative risk from 10 studies
+h3:results-from-two-randomized-controlled-trials-1 Results from two randomized controlled trials
+h3:confidence-interval-for-the-difference-between-two-proportions Confidence Interval for the difference between two proportions
+h3:hypothesis-test-for-comparing-two-proportions Hypothesis test for comparing two proportions
+h3:probiotics-example-confidence-interval-for-difference-in-proportions Probiotics example: Confidence interval for difference in proportions
+h3:probiotics-example-hypothesis-test Probiotics example: Hypothesis test
+h3:probiotics-example-results-for-both-studies Probiotics example: Results for both studies
+h3:comparing-two-proportions-in-r Comparing two proportions in R
+h4:description Description
+h4:usage Usage
+h3:probiotics-example-obtaining-the-results-in-r Probiotics example: Obtaining the results in R
+h4:gao-study Gao study
+h4:allen-study Allen study
+h3:number-needed-to-treat Number needed to treat
+h3:probiotics-example-number-needed-to-treat Probiotics example: Number needed to treat
+h3:confidence-interval-for-number-needed-to-treat Confidence interval for number needed to treat
+h2:sample-size-determination-for-studies-of-proportions Sample size determination for studies of proportions
+h3:sample-size-for-desired-margin-of-error Sample Size For Desired Margin Of Error
+h3:sample-size-for-desired-power-and-type-i-error Sample Size For Desired Power And Type I Error
+h3:example-1 Example
+h3:planning-a-study-to-compare-proportions Planning a study to compare proportions
+h3:sample-size-formulae Sample size formulae
+h3:example-2 Example
+h3:inputs-for-the-sample-size-calculation Inputs for the sample size calculation
+h3:example-3 Example
+

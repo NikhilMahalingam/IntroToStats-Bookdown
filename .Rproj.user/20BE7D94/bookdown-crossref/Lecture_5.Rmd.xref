@@ -1,0 +1,25 @@
+h1:lecture-5-sample-size-calculations-to-plan-for-hypothesis-tests-of-means Lecture 5: Sample size calculations to plan for hypothesis tests of means
+h2:sample-size-calculation Sample size calculation
+h3:type-i-and-type-ii-errors Type I and Type II errors
+h3:similarity-between-diagnostic-testing-and-hypothesis-testing Similarity between diagnostic testing and hypothesis testing
+h3:example Example
+h3:we-are-interested-in-detecting-a-shift-in-the-mean-of-the-distribution We are interested in detecting a shift in the mean of the distribution
+h3:sample-size-required-for-a-hypothesis-test-of-a-single-mean Sample size required for a hypothesis test of a single mean
+h3:sample-size-required-under-different-scenarios-for-a-one-sided-test Sample size required under different scenarios for a one-sided test
+h3:example-serum-cholesterol Example: Serum cholesterol
+h3:summary-input-needed-to-calculate-sample-size-for-single-mean Summary: Input needed to calculate sample size for single mean
+h3:example-planning-a-study-to-compare-means-using-a-hypothesis-test Example: Planning a study to compare means using a hypothesis test
+h3:sample-size-required-to-compare-means Sample size required to compare means
+h3:example-sample-size-required-to-compare-nck1-wt-and-ko-mice Example: Sample size required to compare Nck1 WT and KO mice
+h3:power Power
+h3:calculating-the-power-in-r Calculating the power in R
+h3:example-power-function Example: Power function
+h3:what-is-the-impact-of-equal-or-unequal-group-sizes-on-the-precision What is the impact of equal or unequal group sizes on the precision?
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-both-groups-are-equally-difficult-to-sample-from Effect of different numbers in each sample on precision, when both groups are equally difficult to sample from
+h4:effect-of-different-numbers-in-each-sample-on-precision-when-group-1-is-more-scarce-than-group-2 Effect of different numbers in each sample on precision, when group 1 is more scarce than group 2
+h3:an-r-package-for-sample-size-and-power-calculations An R package for sample size and power calculations
+h3:installing-a-package-in-r Installing a package in R
+h3:sample-size-for-comparing-two-means Sample size for comparing two means
+h4:example-1 Example 1:
+h4:example-2 Example 2:
+

@@ -1,0 +1,43 @@
+h1:lecture-1 Lecture 1
+h2:introduction Introduction
+h3:what-is-statistics What is Statistics?
+h3:a-motivating-example A Motivating Example
+h3:what-was-the-evidence-behind-this-optimistic-headline What was the evidence behind this optimistic headline?
+h3:what-would-a-data-detective-ask What would a data detective ask?
+h3:results-reported-in-the-study Results reported in the study
+h3:evaluating-the-quality-of-the-statistical-methods Evaluating the quality of the statistical methods
+h3:what-if-the-sample-size-were-smaller What if the sample size were smaller?
+h3:what-if-the-sample-size-were-larger What if the sample size were larger?
+h3:sample-size-and-precision Sample Size and Precision
+h3:evaluating-the-quality-of-the-statistical-methods-1 Evaluating the quality of the statistical methods
+h3:evaluating-the-quality-of-the-study-design Evaluating the quality of the study design
+h3:the-role-of-external-or-prior-information The role of external (or prior) information
+h2:reducing-bias-in-research-studies Reducing Bias in Research Studies
+h3:bias-vs.-precision Bias vs. Precision
+h3:common-study-designs-used-in-clinical-research Common study designs used in clinical research
+h3:randomized-controlled-trial Randomized Controlled Trial
+h3:reducing-bias-in-research-studies-1 Reducing bias in research studies
+h3:a-second-motivating-example-renal-denervation A second motivating example: Renal Denervation
+h3:example-4a-results-from-a-cohort-study-of-renal-denervation Example 4a: Results from a cohort study of renal denervation
+h3:example-4b-results-compared-to-a-control-group Example 4b: Results compared to a control group
+h3:example-4c-results-from-a-randomized-controlled-trial-rct-of-renal-denervation Example 4c: Results from a randomized controlled trial (RCT) of renal denervation
+h3:example-4d-results-from-a-second-randomized-controlled-trial-of-renal-denervation Example 4d: Results from a second randomized controlled trial of renal denervation
+h3:example-4-renal-denervation-as-a-treatment-for-resistant-hypertension Example 4: Renal Denervation as a treatment for resistant hypertension
+h3:lessons-learnt-from-renal-denervation-example Lessons learnt from renal denervation example
+h3:health-technology-assessment-of-renal-denervation Health Technology Assessment of Renal Denervation
+h2:random-sampling-and-randomization Random sampling and Randomization
+h3:sample-surveys Sample surveys
+h3:simple-random-sample Simple random sample
+h3:sample-surveys-1 Sample surveys*
+h3:margin-of-error Margin of error
+h3:how-to-choose-a-simple-random-sample How to choose a simple random sample
+h3:example-drawing-a-random-sample Example: Drawing a random sample
+h3:practical-concerns-when-random-sampling Practical concerns when random sampling
+h3:some-typical-biases-that-can-arise-during-a-survey Some typical biases that can arise during a survey
+h3:randomization Randomization
+h3:simple-randomization Simple randomization
+h3:relevance-of-statistical-methods-to-researchers-in-the-life-sciences Relevance of statistical methods to researchers in the life sciences
+h3:organizations-supporting-transparent-reporting-of-biomedical-research-evidence-based-decision-making Organizations supporting transparent reporting of biomedical research & evidence-based decision making
+h3:biomedical-journals-are-insisting-on-appropriate-statistical-methods Biomedical journals are insisting on appropriate statistical methods
+h3:fev-example-dataset FEV Example: Dataset
+

@@ -1,0 +1,58 @@
+h1:lecture-2-types-of-variables-probability-and-probability-distributions Lecture 2: Types of Variables, Probability and Probability Distributions
+h2:types-of-variables Types of variables
+h3:some-questions-on-types-of-variables Some questions on types of variables
+h3:qualitative-variables Qualitative variables
+h2:probability Probability
+h3:definitions Definitions
+h3:example-1-coin-tossing Example 1: Coin Tossing
+h3:example-2-coin-tossing-again Example 2: Coin Tossing again
+h3:interpretation-of-probability Interpretation of probability
+h3:relative-frequency-interpretation-of-probability Relative frequency interpretation of probability
+h3:subjective-interpretation-of-probability Subjective interpretation of probability
+h3:compound-events Compound events
+h3:some-questions-on-probability Some questions on probability
+h3:combining-probabilities-addition-rules Combining probabilities: Addition rules
+h3:combining-probabilities-multiplication-rules Combining probabilities: Multiplication rules
+h3:conditional-probability Conditional probability
+h3:probability-trees Probability Trees
+h3:example-3-independent-events Example 3: Independent events
+h3:albinism-example Albinism example
+h3:albinism-example-sample-space-and-probabilities Albinism example: Sample space and probabilities
+h3:example-4-medical-testing Example 4: Medical testing
+h3:medical-testing-example Medical testing example
+h2:probability-distributions Probability Distributions
+h3:population-and-sample Population and sample
+h3:notation Notation
+h3:parameters-statistics-probability-distributions Parameters, Statistics, Probability Distributions
+h3:binomial-distribution Binomial Distribution
+h3:binomial-distribution-function Binomial Distribution Function
+h3:albinism-example-for-a-couple-with-5-children-sample-space-and-probabilities Albinism example for a couple with 5 children: Sample space and probabilities
+h3:probability-distributions-in-r Probability distributions in R
+h3:example-binomial-distribution-in-practice Example: Binomial distribution in practice
+h3:mean-and-variance-of-random-variables Mean and variance of random variables
+h3:mean-and-variance-for-a-binomial-distribution Mean and variance for a Binomial distribution
+h3:probability-of-a-continuous-variable Probability of a continuous variable
+h3:probability-density-function-for-a-continuous-variable Probability density function for a continuous variable
+h3:normal-distribution Normal Distribution
+h3:normal-probability-density-function Normal probability density function
+h3:three-normal-curves-with-different-means-and-standard-deviations Three normal curves with different means and standard deviations
+h3:area-under-the-normal-curve Area under the normal curve
+h3:example-distribution-of-serum-cholesterol-values Example: Distribution of serum cholesterol values
+h3:area-under-the-normal-curve-1 Area under the normal curve
+h3:mean-and-variance-of-the-normal-distribution Mean and variance of the normal distribution
+h3:examples-of-discrete-distributions Examples of discrete distributions
+h3:bernoulli-distribution Bernoulli distribution
+h3:binomial-distribution-1 Binomial distribution
+h3:poisson-distribution Poisson distribution
+h3:example-transcriptomic-analyses Example: Transcriptomic Analyses
+h3:underlying-statistical-principles-of-commonly-used-packages Underlying statistical principles of commonly used packages
+h3:how-it-works How it works
+h3:what-would-be-a-suitable-probability-distribution What would be a suitable probability distribution?
+h3:poisson-distribution-is-limiting Poisson Distribution is limiting
+h3:negative-binomial-distribution Negative Binomial Distribution
+h3:conceptual-justification Conceptual Justification
+h3:additional-notes-and-practical-implications Additional Notes and Practical Implications
+h3:examples-of-continuous-distributions Examples of continuous distributions
+h3:normal-distribution-1 Normal distribution
+h3:uniform-distribution Uniform distribution
+
